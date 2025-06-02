@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors -->
+    <color name="colorPrimary">#6200EE</color>         
+    <color name="colorPrimaryVariant">#3700B3</color>  
+    <color name="colorOnPrimary">#FFFFFF</color>      
+
+    <!-- Secondary / Accent Colors -->
+    <color name="colorSecondary">#03DAC6</color>      
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Background & Surface -->
+    <color name="colorBackground">#F5F5F5</color>    
+    <color name="colorSurface">#FFFFFF</color>        
+    <color name="colorOnBackground">#121212</color>    
+    <color name="colorOnSurface">#000000</color>
+
+    <!-- Error Color -->
+    <color name="colorError">#B00020</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <!-- Additional Modern Colors -->
+    <color name="softGray">#E0E0E0</color>
+    <color name="deepBlue">#0D47A1</color>
+    <color name="lightBlue">#BBDEFB</color>
+    <color name="successGreen">#4CAF50</color>
+    <color name="warningOrange">#FFA726</color>
+</resources>
